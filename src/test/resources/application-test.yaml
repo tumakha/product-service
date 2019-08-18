@@ -1,0 +1,6 @@
+
+server.port: 8989
+
+products:
+  url: http://localhost:8989/stub/v1/categories/600001506/products
+  key: TEST_KEY

@@ -1,0 +1,23 @@
+
+server.port: 8888
+
+spring:
+  main.banner-mode: 'OFF'
+  h2.console:
+      enabled: true
+      path: /h2
+
+management.endpoints.web.exposure.include:
+  - health
+  - heapdump
+  - env
+  - metrics
+
+logging.level:
+  io.swagger.models.parameters.AbstractSerializableParameter: ERROR
+  org.springframework: INFO
+  product: INFO
+
+products:
+  url: https://jl-nonprod-syst.apigee.net/v1/categories/600001506/products
+  key: 2ALHCAAs6ikGRBoy6eTHA58RaG097Fma

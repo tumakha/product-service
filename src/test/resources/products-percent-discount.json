@@ -1,0 +1,54 @@
+{
+  "page": 0,
+  "size": 100,
+  "products": [
+    {
+      "productId": "3428696",
+      "title": "Hobbs Kiona Dress, Green",
+      "colorSwatches": [],
+      "nowPrice": "£74",
+      "priceLabel": "50% off - now £74"
+    },
+    {
+      "productId": "3421340",
+      "title": "Phase Eight Beatrix Floral Printed Dress, Cream/Red",
+      "colorSwatches": [],
+      "nowPrice": "£99",
+      "priceLabel": "29% off - now £99"
+    },
+    {
+      "productId": "3391561",
+      "title": "Phase Eight Katlyn Three Quarter Sleeve Spot Dress, Navy/Ivory",
+      "colorSwatches": [],
+      "nowPrice": "£59",
+      "priceLabel": "40% off - now £59"
+    },
+    {
+      "productId": "3459039",
+      "title": "Hobbs Bayview Dress, Blue/Multi",
+      "colorSwatches": [],
+      "nowPrice": "£55",
+      "priceLabel": "38% off - now £55"
+    },
+    {
+      "productId": "3467432",
+      "title": "Boden Rosamund Posy Stripe Dress",
+      "colorSwatches": [
+        {
+          "color": "Navy",
+          "rgbColor": "0000FF",
+          "skuid": "237334043"
+        },
+        {
+          "color": "Mimosa Yellow",
+          "rgbColor": "FFFF00",
+          "skuid": "237334029"
+        }
+      ],
+      "nowPrice": "£63",
+      "priceLabel": "30% off - now £63"
+    }
+  ],
+  "totalPages": 1,
+  "totalElements": 5
+}
